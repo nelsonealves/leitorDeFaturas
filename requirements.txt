@@ -1,5 +1,5 @@
 wheel
 numpy==1.18.1
-opencv-python==4.5.1.48
+opencv_python==4.5.1.48
 Pillow==8.1.2
 pytesseract==0.3.7
